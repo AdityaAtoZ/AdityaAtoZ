@@ -1,53 +1,30 @@
-  ![Batman Chase Scene](https://i.pinimg.com/originals/c6/c1/a2/c6c1a2b60e0f3c29f758c294b56fe2c1.gif)
+<p align="center">
+  <img src="https://i.pinimg.com/originals/c6/c1/a2/c6c1a2b60e0f3c29f758c294b56fe2c1.gif" alt="Batman Chase Scene" width="800">
+</p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=yellow&center=true&vCenter=true&width=500&height=60&lines=Hi%2C+I'm+Aditya" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Gotham&size=40&color=FFD700&center=true&vCenter=true&width=600&height=70&lines=Hi,+I'm+Aditya!;Exploring+A-Z+of+Tech+%26+Innovation" />
 </h1>
 
-<h3 align="center">🚀 Exploring A-Z of Tech & Innovation</h3>
+## 🦇 About Me:
+Hey there! I'm Aditya, a tech explorer passionate about building innovative solutions. Always diving deep into systems, performance, and optimization. 🚀
 
----
+- 💡 **Specializing in**: System Scalability, Distributed Computing, Performance Engineering
+- 🔍 **Exploring**: AI, Cloud Technologies, Cybersecurity
+- 🎯 **Goal**: Solve real-world problems with scalable and efficient tech
 
-### 🦇 About Me
-- 💻 Passionate about **System Design, Backend Development & Performance Optimization**
-- 🏆 Open-Source Contributor | Hackathon Lead | Problem Solver
-- 🎯 **AtoZ** isn't just my name, it's my journey—exploring everything from A to Z in tech!
-- 🌌 Huge fan of **Batman** & futuristic themes 🚀
+## 🌐 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-r-6a412a1b6/)  
 
----
+## 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 
-### 🛠️ Tech Stack
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat-square&logo=streamlit&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,go,js,react,docker,kubernetes,linux" />
-</p>
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AdityaAtoZ&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=AdityaAtoZ&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaAtoZ&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaAtoZ&show_icons=true&theme=dark&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AdityaAtoZ&theme=dark&hide_border=true" />
-</p>
-
----
-
-### 🏙️ Gotham-Inspired Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaAtoZ&theme=react-dark&hide_border=true" />
-</p>
-
----
-
-### ✨ Quote
-> _"It's not who I am underneath, but what I do that defines me." – Bruce Wayne_
-
----
-
-### 📫 Connect with Me
-<p align="center">
-  <a href="https://linkedin.com/in/aditya-r-6a412a1b6/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:Adityarathore.22june@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
-</p>
+## 🦸 Fun Fact:
+"It's not who I am underneath, but what I do that defines me." – Batman 🦇
