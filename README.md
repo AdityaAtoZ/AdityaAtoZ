@@ -29,4 +29,5 @@ Hey there! I'm Aditya, a tech explorer passionate about building innovative solu
 ## 🦸 Fun Fact:
 "It's not who I am underneath, but what I do that defines me." – Batman 🦇
 
+## Watch snake eating my github contributions:
 ![snake gif](https://github.com/AdityaAtoZ/AdityaAtoZ/blob/output/github-contribution-grid-snake.gif)
