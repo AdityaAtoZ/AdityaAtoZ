@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Gotham&size=40&color=FFD700&center=true&vCenter=true&width=600&height=70&lines=Hi,+I'm+Aditya!;Exploring+A-Z+of+Tech+%26+Innovation" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Gotham&size=40&color=FFD700&center=true&vCenter=true&width=600&height=70&lines=Hi,+I'm+Aditya!;    Exploring+A-Z+of+Tech+%26+Innovation" />
 </h1>
 
 ## 🦇 About Me:
