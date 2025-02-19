@@ -30,4 +30,8 @@ Hey there! I'm Aditya, a tech explorer passionate about building innovative solu
 "It's not who I am underneath, but what I do that defines me." – Batman 🦇
 
 ## Watch snake eating my github contributions:
-![snake gif](https://github.com/AdityaAtoZ/AdityaAtoZ/blob/output/github-contribution-grid-snake.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
