@@ -2,9 +2,11 @@
   <img src="https://i.pinimg.com/originals/c6/c1/a2/c6c1a2b60e0f3c29f758c294b56fe2c1.gif" alt="Batman Chase Scene" width="800">
 </p>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Gotham&size=40&color=FFD700&center=true&vCenter=true&width=600&height=70&lines=Hi,+I'm+Aditya!;Exploring+A-Z+of+Tech+%15+Innovation" />
-</h1>
+<div align="center">
+  <img src="https://i.pinimg.com/originals/c6/c1/a2/c6c1a2b60e0f3c29f758c294b56fe2c1.gif" width="100%" />
+  <h1 style="color: yellow; background-color: black; padding: 10px; border-radius: 10px; font-size: 36px;">Hi, I'm Aditya</h1>
+  <h2 style="font-size: 18px; color: white;">Exploring A-Z of Tech & Innovation</h2>
+</div>
 
 ## 🦇 About Me:
 Hey there! I'm Aditya, a tech explorer passionate about building innovative solutions. Always diving deep into systems, performance, and optimization. 🚀
