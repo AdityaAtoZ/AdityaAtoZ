@@ -5,17 +5,6 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Gotham&size=35&color=FFD700&center=true&vCenter=true&width=700&height=70&lines=Hi,+I'm+Aditya!;Exploring+A-Z+of+Tech+%26+Innovation" />
 </h1>
-<style>
-@keyframes fadeIn {
-  from { opacity: 0; }
-  to { opacity: 1; }
-}
-
-@keyframes slideUp {
-  from { transform: translateY(20px); opacity: 0; }
-  to { transform: translateY(0); opacity: 1; }
-}
-</style>
 
 
 ## 🦇 About Me:
