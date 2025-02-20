@@ -2,10 +2,7 @@
   <img src="https://i.pinimg.com/originals/c6/c1/a2/c6c1a2b60e0f3c29f758c294b56fe2c1.gif" alt="Batman Chase Scene" width="800">
 </p>
 
-<div align="center">
-  <h1 style="color: yellow; background-color: black; padding: 10px; border-radius: 10px; font-size: 42px; font-weight: bold; animation: fadeIn 2s ease-in-out;">Hi, I'm Aditya</h1>
-  <h2 style="font-size: 22px; color: white; font-weight: bold; animation: slideUp 2s ease-in-out;">Exploring A-Z of Tech & Innovation</h2>
-</div>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&color=FFD700&vCenter=true&width=500&height=70&duration=4000&lines=Hi,+I'm+Aditya;Exploring+A-Z+of+Tech+%26+Innovation" />
 
 <style>
 @keyframes fadeIn {
