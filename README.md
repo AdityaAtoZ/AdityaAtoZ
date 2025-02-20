@@ -2,8 +2,9 @@
   <img src="https://i.pinimg.com/originals/c6/c1/a2/c6c1a2b60e0f3c29f758c294b56fe2c1.gif" alt="Batman Chase Scene" width="800">
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&color=FFFFFF&vCenter=true&width=400&height=50&duration=4000&lines=Hi,+I'm+Aditya!" />
-
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Gotham&size=35&color=FFD700&center=true&vCenter=true&width=600&height=70&lines=Hi,+I'm+Aditya!;Exploring+A-Z+of+Tech+%26+Innovation" />
+</h1>
 <style>
 @keyframes fadeIn {
   from { opacity: 0; }
