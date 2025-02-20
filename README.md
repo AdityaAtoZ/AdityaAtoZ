@@ -3,10 +3,22 @@
 </p>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/c6/c1/a2/c6c1a2b60e0f3c29f758c294b56fe2c1.gif" width="100%" />
-  <h1 style="color: yellow; background-color: black; padding: 10px; border-radius: 10px; font-size: 36px;">Hi, I'm Aditya</h1>
-  <h2 style="font-size: 18px; color: white;">Exploring A-Z of Tech & Innovation</h2>
+  <h1 style="color: yellow; background-color: black; padding: 10px; border-radius: 10px; font-size: 42px; font-weight: bold; animation: fadeIn 2s ease-in-out;">Hi, I'm Aditya</h1>
+  <h2 style="font-size: 22px; color: white; font-weight: bold; animation: slideUp 2s ease-in-out;">Exploring A-Z of Tech & Innovation</h2>
 </div>
+
+<style>
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes slideUp {
+  from { transform: translateY(20px); opacity: 0; }
+  to { transform: translateY(0); opacity: 1; }
+}
+</style>
+
 
 ## 🦇 About Me:
 Hey there! I'm Aditya, a tech explorer passionate about building innovative solutions. Always diving deep into systems, performance, and optimization. 🚀
